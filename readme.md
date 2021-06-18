@@ -1,4 +1,4 @@
-# Hey there, I'm Shikshya Gautam .
+# Hey there, 👋 I'm Shikshya Gautam .
 
 ## I am software developer from Nepal, currently practicing SPA using React and Next.
 
