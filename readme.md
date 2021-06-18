@@ -1,4 +1,4 @@
-# Hey there, 👋 I'm Shikshya Gautam .
+# Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Shikshya Gautam .
 
 ## I am software developer from Nepal, currently practicing SPA using React and Next.
 
