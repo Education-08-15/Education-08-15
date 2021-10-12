@@ -1,6 +1,6 @@
 # Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Shikshya Gautam .
 
-## I am software developer from Nepal, currently practicing SPA using React and Next.
+## I am software developer from Nepal, currently practicing JavaScript, Python, Bash Scripting.
 
 - I am currently learning more about react and problem solving using JS.
 - Things on my plate later - Python,GoLang .
